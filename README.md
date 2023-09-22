@@ -2,7 +2,8 @@
 
 ![](https://github.com/WasiShaikh977/Top-6-teams-xG-SMA/blob/main/Top%206.png)
 
-In this project we look at the trends in Expected Goals Difference for the top 6 English Premier League teams since boxing day 2019 (26/12/2019).
+In this project we look at the trends in Expected Goals Difference for the top 6 English Premier League teams since the start of season 2019/2020 upto gameweek 4 of season 23/24 (03/09/2023).
+The intention was to quantify the underlying performance metrics of the top 6 teams to see how they had progressed/regressed since the start of the season 2019/2020 season.
 
 ## Key Definitions
 - **Expected Goals (xG):** A statistical metric used in soccer to assess the quality of a scoring opportunity. It quantifies the likelihood that a shot will result in a goal based on historical data and various factors.
